@@ -26,7 +26,7 @@ The player controls a cube-shaped character and can move around a maze to reach 
 - report given as part of the course
 
 ## Controls 
-###Player movement 
+### Player movement 
 I , J , K , L
 ### Camera Controlls 
 Rotation : Q , Z , W , X
