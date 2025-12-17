@@ -34,3 +34,8 @@ Panning : T , G , H , B
 Zoom : +-
 ### Exit app 
 Space
+## build instructions 
+```bash
+g++ Source-1C.cpp -o game -lGL -lglfw -lGLEW
+./game
+```
